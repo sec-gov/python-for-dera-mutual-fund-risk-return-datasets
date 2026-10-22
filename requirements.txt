@@ -1,0 +1,7 @@
+# core modules
+pandas
+numpy
+matplotlib
+seaborn
+IPython
+requests

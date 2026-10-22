@@ -1,0 +1,38 @@
+{
+  "name": "python-for-dera-mutual-fund-risk-return-datasets",
+  "repositoryURL": "https://github.com/sec-gov/python-for-dera-mutual-fund-risk-return-datasets",
+  "description": "Python code examples to demonstrate how to read data from SEC's Mutual Fund Prospectus Risk/Return Summary Data Sets using pandas. These examples help Python programmers understand different ways to access, analyze and visualize data from SEC's Data Sets.",
+  "permissions": {
+    "licenses": [
+      {
+        "URL": "https://github.com/sec-gov/osd-python-for-dera-mutual-fund-risk-return-datasets/blob/master/LICENSE",
+        "name": "CC0 1.0"
+      }
+    ],
+    "usageType": "openSource"
+  },
+  "tags": [
+    "US Securities and Exchange Commission",
+    "Financial Data",
+    "XBRL"
+  ],
+  "contact": {
+    "email": "StructuredData@sec.gov"
+  },
+  "organization": "US Securities and Exchange Commission",
+  "status": "Production",
+  "vcs": "git",
+  "homepageURL": "https://www.sec.gov/",
+  "languages": [
+    "Python",
+    "Jupyter"
+  ],
+  "relatedCode": [
+  ],
+  "date": {
+    "created": "2026-10-22",
+    "lastModified": "2026-10-22",
+    "metadataLastUpdated": "2026-10-22"
+  },
+  "laborHours": 120
+}
